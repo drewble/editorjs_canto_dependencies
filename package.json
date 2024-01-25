@@ -1,0 +1,13 @@
+{
+  "name": "editorjs_canto_dependencies",
+  "version": "0.1.0",
+  "description": "Provides dependencies libraries for 'editorjs_canto' module.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "drewble",
+  "devDependencies": {
+    "@drewble/editorjs-canto": "https://github.com/drewble/editorjs-canto.git"
+  }
+}

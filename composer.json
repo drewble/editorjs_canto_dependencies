@@ -1,0 +1,21 @@
+{
+  "name": "drewble/editorjs_canto_dependencies",
+  "type": "drupal-library",
+  "description": "Provides dependencies libraries for 'editorjs_canto' module.",
+  "keywords": [
+    "Drupal",
+    "EditorJS",
+    "dependencies"
+  ],
+  "homepage": "https://github.com/drewble/editorjs_canto_dependencies",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "drewble",
+      "email": "drew@dmblake.com",
+      "homepage": "https://www.dmblake.com/"
+    }
+  ]
+}
