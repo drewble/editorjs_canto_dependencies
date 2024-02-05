@@ -16,7 +16,7 @@
 
 "@drewble/editorjs-canto@https://github.com/drewble/editorjs-canto.git":
   version "1.0.0"
-  resolved "https://github.com/drewble/editorjs-canto.git#8544e374994f15a732302c6d33c3733042225e33"
+  resolved "https://github.com/drewble/editorjs-canto.git#ce6f805c91a7ca2b8390e1d5ddd570fdc9b2f082"
   dependencies:
     "@babel/runtime" "^7.10.2"
     "@codexteam/icons" "^0.0.4"
