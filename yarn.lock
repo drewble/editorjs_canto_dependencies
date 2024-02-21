@@ -14,9 +14,9 @@
   resolved "https://registry.yarnpkg.com/@codexteam/icons/-/icons-0.0.4.tgz#8b72dcd3f3a1b0d880bdceb2abebd74b46d3ae13"
   integrity sha512-V8N/TY2TGyas4wLrPIFq7bcow68b3gu8DfDt1+rrHPtXxcexadKauRJL6eQgfG7Z0LCrN4boLRawR4S9gjIh/Q==
 
-"@drewble/editorjs-canto@https://github.com/drewble/editorjs-canto.git":
+"@drewble/editorjs-canto@https://github.com/drewble/editorjs-canto.git#v1.0.0":
   version "1.0.0"
-  resolved "https://github.com/drewble/editorjs-canto.git#ce6f805c91a7ca2b8390e1d5ddd570fdc9b2f082"
+  resolved "https://github.com/drewble/editorjs-canto.git#fd62b9f15181abf7a0198a1f9be793d29ec5a532"
   dependencies:
     "@babel/runtime" "^7.10.2"
     "@codexteam/icons" "^0.0.4"
