@@ -8,6 +8,6 @@
   },
   "author": "drewble",
   "devDependencies": {
-    "@drewble/editorjs-canto": "https://github.com/drewble/editorjs-canto.git#v2.0.1"
+    "@drewble/editorjs-canto": "https://github.com/drewble/editorjs-canto.git#v2.0.2"
   }
 }
